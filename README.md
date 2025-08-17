@@ -1,5 +1,13 @@
-# 💫 About Me:
-Hand Gesture Controlled Robotic Arm (Arduino + Sensors + Bluetooth)<br>Open Source AI, IoT & Automation Projects<br>Advanced Machine Learning & Signal Processing<br>Java, React, and AI/ML Algorithms<br>C, Java, Data Structures & Algorithms, Arduino/IoT Projects<br>I can survive with coffee and WiFi only 
+# Hi, I'm Ashwani Kumar!  
+**AIML Enthusiast | Developer**
+
+## 💫 About Me:
+🔭 I’m currently working on **AI + IoT based Robotic & Automation Projects**  
+👯 I’m looking to collaborate on **Open Source AI/ML & IoT Projects**  
+🤝 I’m looking for help with **Advanced Robotics, Signal Processing & Cloud Integrations**  
+🌱 I’m currently learning **Full Stack Development (React, Node.js, Firebase)**  
+💬 Ask me about **C, Java, DSA, Arduino/IoT, Machine Learning**  
+⚡ Fun fact: **I can survive on coffee + WiFi like a true developer** ☕📶  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ashwani89693) 
