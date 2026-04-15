@@ -2,7 +2,7 @@
 
  CSE(AIML) Student | AI & Projects Enthusiast  
 
-##  My Todoist Stats
+## 📊 My Todoist Stats
 
 <!-- TODOIST:START -->
 <!-- TODOIST:END -->
