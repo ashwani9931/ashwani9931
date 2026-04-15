@@ -8,10 +8,12 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Update Todoist Stats
-        uses: abhisheknaiidu/todoist-readme@main
+        uses: akashrchandran/todoist-readme@main
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
