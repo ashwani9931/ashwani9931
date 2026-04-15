@@ -13,7 +13,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Update Todoist Stats
-        uses: akashrchandran/todoist-readme@main
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
+          node-version: '18'
+
+      - name: Update Todoist Stats
+        env:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+        run: |
+          # Add your custom script or use an npm package here
+          # Example: npx todoist-stats-updater
+          echo "Update Todoist stats logic here"
